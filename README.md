@@ -1,1 +1,1 @@
-# DML-command
+# DML-command using sql in database management systems
